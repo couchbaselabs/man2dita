@@ -1,0 +1,5 @@
+.DS_Store
+.project
+*~
+
+cmd/man2dita/man2dita
